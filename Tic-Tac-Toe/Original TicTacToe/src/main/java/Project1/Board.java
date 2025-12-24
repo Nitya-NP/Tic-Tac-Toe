@@ -5,7 +5,7 @@ package Project1;
  * Manages the grid state, displays the board, place mark and checks game win conditions.
  * 
  * @author Nitya Patel
- * 400555595
+ * 
  */
 
 
@@ -193,5 +193,6 @@ public class Board {
             grid[row][col]=' ';
         }
     }
+
 
 }
